@@ -47,12 +47,12 @@ header img {
 .portfolio-item img {
     max-width: 100%;
     border-radius: 5px;
+
 }
 .portfolio-item h3 {
     margin-top: 0;
     font-family: 'Poppins', Helvetica, Arial, sans-serif;
     font-size:50px;
-    
 }
 footer {
     background-color: #171717;
@@ -98,4 +98,26 @@ a:active {
     margin-bottom: 0.625rem;
     min-height: 50rem;
     margin-top: 0.625rem;
+}
+
+h1 a {
+    color: #00c3ff;
+    padding-left: 50px;
+    font-size: 25px;
+}
+h1 a:link {
+    color: #00c3ff;
+    text-decoration: none;
+}
+h1 a:visited {
+    color: #00c3ff;
+    text-decoration: none;
+}
+h1 a:hover {
+    color: #00c3ff;
+    text-decoration: none;
+}
+h1 a:active {
+    color: #00c3ff;
+    text-decoration: none;
 }
