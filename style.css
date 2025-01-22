@@ -127,37 +127,4 @@ h1 a:active {
 
 
 
-@media only screen and (max-width: 600px) {
-    .container {
-        margin: 0 16px;
-    }
-    h1{
-        font-size: 15px;
-        margin-bottom: 1rem;
-    }
-    h2{
-        font-size: 15px;
-    }
-    div a div h3{
-        font-size: 1rem;
-    }
-    div a div a{
-        font-size: 1rem;
-    }
-        div a div h3 a{
-        font-size: 1rem;
-    }
-    p{
-        font-size: 15px;
-        margin-bottom: 2rem;
-    }
 
-    ul {
-        margin-bottom: 1rem;
-    }
-
-    ul li {
-        font-size: 15px;
-        margin-bottom: .5rem;
-    }
-}
