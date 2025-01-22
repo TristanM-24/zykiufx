@@ -52,7 +52,7 @@ header img {
 .portfolio-item h3 {
     margin-top: 0;
     font-family: 'Poppins', Helvetica, Arial, sans-serif;
-    font-size:15px;
+    font-size:25px;
 }
 footer {
     background-color: #171717;
@@ -96,13 +96,13 @@ a:active {
     background-position: center center;
     position: relative;
     margin-bottom: 0.625rem;
-    min-height: 15rem;
+    min-height: 25rem;
     margin-top: 0.625rem;
 }
 
 h1 a {
     color: #00c3ff;
-    padding-left: 15px;
+    padding-left: 25px;
     font-size: 25px;
 }
 h1 a:link {
